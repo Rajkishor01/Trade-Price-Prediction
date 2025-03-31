@@ -20,10 +20,6 @@ This project utilizes deep learning techniques (LSTM/Transformers) to predict st
 
 
 
-## 📊 Example Output
-The model predicts future stock prices based on historical data. Example:
-![Sample Prediction](example_output.png)
-
 ## 📝 License
 This project is for educational and research purposes only. Commercial use is **not permitted**. See the [LICENSE](LICENSE) file for details.
 
@@ -31,13 +27,5 @@ This project is for educational and research purposes only. Commercial use is **
 ## 📧 Contact
 For any questions, reach out via email or GitHub discussions.
 
----
-
-### 🔥 **Next Steps**
-1️⃣ Upload this `README.md` to your GitHub repository.  
-2️⃣ Replace `YOUR-NOTEBOOK-ID` with your **actual Google Drive notebook ID**.  
-3️⃣ (Optional) Add an `example_output.png` to showcase results.  
-
-Would you like help generating a sample output image? 😊
 
 

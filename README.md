@@ -25,6 +25,7 @@ This project is for educational and research purposes only. Commercial use is **
 
 ## 📧 Contact
 For any questions, reach out via email or GitHub discussions.
-
+E-mail : rajkishor01072002@gmail.com
+Phone Number :7735379763
 
 

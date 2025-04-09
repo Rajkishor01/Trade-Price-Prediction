@@ -17,7 +17,8 @@ This project utilizes deep learning techniques (LSTM/Transformers) to predict st
 - **Tech Stack:** Python, TensorFlow/Keras, Pandas, Plotly, Scikit-learn.
 - **Data Source:** Historical stock price data from alpha vantage.
 - **Model Used:** LSTM (Long Short-Term Memory) .
-- **How Data used:** dataset contains five columns("Open","High","Low","Close","Volume" ).So for training model took 30 days data of all column and predicted the 31st day's "Close" value. 
+- **How Data used:** dataset contains five columns("Open","High","Low","Close","Volume" ).So for training model took 30 days data of all column and predicted the 31st day's "Close" value.
+Note : If the notebook is accessed through colab kink the out put will be "Open","High","Low","Close" values instead of only "Close". 
 
 ## 📝 License
 This project is for educational and research purposes only. Commercial use is **not permitted**. See the [LICENSE](LICENSE) file for details.
